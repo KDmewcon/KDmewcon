@@ -11,7 +11,7 @@
 
 <!-- Badge - dùng shields.io ổn định -->
 <a href="https://github.com/KDmewcon?tab=followers">
-  <img src="https://img.shields.io/github/followers/KDmewcon?label=Theo%20Dõi&style=for-the-badge&color=ff9800&labelColor=e65100&logo=github&logoColor=white" alt="Theo Dõi" />
+  <img src="https://img.shields.io/badge/Theo%20Dõi-4-e65100?style=for-the-badge&logo=github&logoColor=white&labelColor=bf360c" alt="Theo Dõi" />
 </a>
 <a href="https://github.com/KDmewcon?tab=repositories&sort=stargazers">
   <img src="https://img.shields.io/github/stars/KDmewcon?label=Stars&style=for-the-badge&color=ffb74d&labelColor=ff9800&logo=star&logoColor=white" alt="Stars" />
