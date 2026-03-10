@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- Header Banner - Tông cam -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24,25,26,27&height=300&section=header&text=KDmewcon&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=✦%20Lập%20Trình%20Viên%20%7C%20Nhà%20Sáng%20Tạo%20%7C%20Giải%20Quyết%20Vấn%20Đề%20✦&descSize=18&descColor=ffd180&descAlignY=62&stroke=00000000" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    HEADER - BANNER ĐẸP                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Hiệu ứng gõ chữ -->
-<a href="https://github.com/KDmewcon">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=2500&pause=800&color=FF9800&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%E2%9C%A8+Chào+mừng+đến+với+Vũ+Trụ+Số+của+mình+%E2%9C%A8;%F0%9F%9A%80+Xây+dựng+Công+Cụ+%26+Tiện+Ích+Hữu+Ích;%F0%9F%8E%AF+Flutter+%7C+TypeScript+%7C+Chrome+Extensions;%F0%9F%92%A1+Biến+Cà+Phê+thành+Code+từ+Ngày+Đầu" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6d00,25:ff9100,50:ffab40,75:ff9100,100:ff6d00&height=200&section=header&text=&fontSize=0" />
+
+<!-- Logo Text đẹp -->
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=65&duration=4000&pause=1000&color=FF9800&center=true&vCenter=true&repeat=false&width=600&height=80&lines=KDmewcon" alt="KDmewcon" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=3000&pause=800&color=FFB74D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=✨+Chào+mừng+đến+với+thế+giới+của+mình+✨;🚀+Xây+dựng+Công+Cụ+%26+Tiện+Ích+cho+Lập+Trình+Viên;🔥+Flutter+%7C+TypeScript+%7C+Chrome+Extensions;☕+Biến+Cà+Phê+thành+Code+mỗi+ngày" alt="Typing SVG" />
 
 <br>
 
@@ -21,15 +26,34 @@
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              🐍 CON RẮN ĂN CONTRIBUTIONS 🐍                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<br>
+
+<div align="center">
+  <h2>🐍 Con Rắn Ăn Contributions</h2>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KDmewcon/KDmewcon/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KDmewcon/KDmewcon/output/github-snake.svg" />
+    <img alt="Con rắn ăn contributions" src="https://raw.githubusercontent.com/KDmewcon/KDmewcon/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
 <br>
 
 <!-- Đường kẻ phân cách -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Giới Thiệu Bản Thân -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GIỚI THIỆU BẢN THÂN                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Giới Thiệu Bản Thân**
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Code minh họa"/>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Code minh họa"/>
 
 ```js
 const KDmewcon = {
@@ -44,7 +68,7 @@ const KDmewcon = {
         "📱 Ứng dụng Desktop bằng Flutter"
     ],
     factVuiVe: "Sản xuất tool nhanh hơn cả nghĩ tên cho nó 😄",
-    mucTieu: "Đóng góp mã nguồn mở mỗi ngày!"
+    mucTieu: "Đóng góp mã nguồn mở mỗi ngày! 🔥"
 };
 ```
 
@@ -53,122 +77,89 @@ const KDmewcon = {
 <!-- Đường kẻ phân cách -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Công Nghệ Sử Dụng -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  KHO VŨ KHÍ CÔNG NGHỆ                      -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Kho Vũ Khí Công Nghệ**
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  </a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /></a>
   <br><b>TypeScript</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  </a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></a>
   <br><b>JavaScript</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="Dart" width="65" height="65" />
-  </a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="Dart" width="65" height="65" /></a>
   <br><b>Dart</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-  </a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" /></a>
   <br><b>C#</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  </a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
   <br><b>Python</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  </a>
+  <a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
   <br><b>GitHub</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" /></a>
   <br><b>Flutter</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48" /></a>
   <br><b>.NET</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /></a>
   <br><b>Node.js</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" /></a>
   <br><b>Firebase</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" /></a>
   <br><b>VS Code</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" /></a>
   <br><b>Docker</b>
 </td>
 </tr>
 <tr>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" /></a>
   <br><b>React</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" /></a>
   <br><b>Next.js</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" /></a>
   <br><b>MongoDB</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" /></a>
   <br><b>MySQL</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" /></a>
   <br><b>Linux</b>
 </td>
 <td align="center" width="96">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" /></a>
   <br><b>Git</b>
 </td>
 </tr>
@@ -178,7 +169,10 @@ const KDmewcon = {
 <!-- Đường kẻ phân cách -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Dự Án Nổi Bật -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    DỰ ÁN NỔI BẬT                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 🚀 **Dự Án Nổi Bật**
 
 <div align="center">
@@ -202,7 +196,10 @@ const KDmewcon = {
 <!-- Đường kẻ phân cách -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Thống Kê GitHub -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    THỐNG KÊ GITHUB                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Thống Kê GitHub**
 
 <div align="center">
@@ -220,27 +217,16 @@ const KDmewcon = {
 
 <!-- Biểu Đồ Hoạt Động -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KDmewcon&custom_title=Biểu%20Đồ%20Đóng%20Góp%20Của%20KDmewcon&bg_color=0d1117&color=ff9800&line=e65100&point=ff9800&area=true&area_color=ff980040&hide_border=true&title_color=ff9800" alt="Biểu Đồ Hoạt Động" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KDmewcon&custom_title=Biểu%20Đồ%20Đóng%20Góp%20Của%20KDmewcon&bg_color=0d1117&color=ff9800&line=e65100&point=ffb74d&area=true&area_color=ff980040&hide_border=true&title_color=ff9800" alt="Biểu Đồ Hoạt Động" />
 </div>
 
 <!-- Đường kẻ phân cách -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Con Rắn Ăn Contributions -->
-## 🐍 **Con Rắn Ăn Contributions**
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      DANH HIỆU                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KDmewcon/KDmewcon/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KDmewcon/KDmewcon/output/github-snake.svg" />
-    <img alt="Con rắn ăn contributions" src="https://raw.githubusercontent.com/KDmewcon/KDmewcon/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<!-- Đường kẻ phân cách -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Danh Hiệu -->
 ## 🏆 **Danh Hiệu GitHub**
 
 <div align="center">
@@ -250,7 +236,10 @@ const KDmewcon = {
 <!-- Đường kẻ phân cách -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Câu Nói Dev -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CÂU NÓI HAY & LIÊN HỆ                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 ## 💭 **Câu Nói Hay Cho Lập Trình Viên**
 
 <div align="center">
@@ -259,7 +248,6 @@ const KDmewcon = {
 
 <br>
 
-<!-- Kết Nối Với Mình -->
 ## 🤝 **Kết Nối Với Mình**
 
 <div align="center">
@@ -279,15 +267,13 @@ const KDmewcon = {
 
 <br>
 
-<!-- Chân Trang -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=24,25,26,27&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
+<!-- Footer đẹp -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6d00,25:ff9100,50:ffab40,75:ff9100,100:ff6d00&height=120&section=footer" />
 
 <div align="center">
   
-  **Cảm ơn bạn đã ghé thăm! 😊**
+  **Cảm ơn bạn đã ghé thăm! 😊🧡**
   
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=435&lines=Được+tạo+với+%E2%9D%A4%EF%B8%8F+bởi+KDmewcon" alt="Chân Trang" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=435&lines=Được+tạo+với+🧡+bởi+KDmewcon" alt="Chân Trang" />
 
 </div>
