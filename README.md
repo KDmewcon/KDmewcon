@@ -4,23 +4,17 @@
 <!--                    HEADER - BANNER ĐẸP                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6d00,25:ff9100,50:ffab40,75:ff9100,100:ff6d00&height=200&section=header&text=&fontSize=0" />
-
-<!-- Logo Text đẹp -->
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=65&duration=4000&pause=1000&color=FF9800&center=true&vCenter=true&repeat=false&width=600&height=80&lines=KDmewcon" alt="KDmewcon" />
+<!-- Banner trên với tên KDmewcon + mô tả -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6d00,25:ff9100,50:ffab40,75:ff9100,100:ff6d00&height=250&section=header&text=KDmewcon&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✨%20Lập%20Trình%20Viên%20%7C%20Nhà%20Sáng%20Tạo%20%7C%20Việt%20Nam%20🇻🇳%20✨&descSize=18&descColor=fff5e1&descAlignY=55" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=22&duration=3000&pause=800&color=FFB74D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=✨+Chào+mừng+đến+với+thế+giới+của+mình+✨;🚀+Xây+dựng+Công+Cụ+%26+Tiện+Ích+cho+Lập+Trình+Viên;🔥+Flutter+%7C+TypeScript+%7C+Chrome+Extensions;☕+Biến+Cà+Phê+thành+Code+mỗi+ngày" alt="Typing SVG" />
-
-<br>
-
-<!-- Badge theo dõi -->
+<!-- Badge - dùng shields.io ổn định -->
 <a href="https://github.com/KDmewcon?tab=followers">
-  <img alt="followers" title="Theo dõi mình trên Github" src="https://custom-icon-badges.demolab.com/github/followers/KDmewcon?color=e65100&labelColor=bf360c&style=for-the-badge&logo=person-add&label=Theo+Dõi&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/KDmewcon?label=Theo%20Dõi&style=for-the-badge&color=ff9800&labelColor=e65100&logo=github&logoColor=white" alt="Theo Dõi" />
 </a>
 <a href="https://github.com/KDmewcon?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Tổng số sao trên GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KDmewcon?color=ff9800&style=for-the-badge&labelColor=e65100&logo=star"/>
+  <img src="https://img.shields.io/github/stars/KDmewcon?label=Stars&style=for-the-badge&color=ffb74d&labelColor=ff9800&logo=star&logoColor=white" alt="Stars" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=KDmewcon&label=Lượt+Xem&color=ff6d00&style=for-the-badge" alt="Lượt Xem Profile" />
 
