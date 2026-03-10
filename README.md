@@ -1,83 +1,233 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Xin%20Chào%20👋%20Mình%20là%20Vu%20Hoang&fontSize=36&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20Dev%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,2,30&height=300&section=header&text=KDmewcon&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=✦%20Developer%20%7C%20Creator%20%7C%20Problem%20Solver%20✦&descSize=18&descColor=b0c4de&descAlignY=62&stroke=00000000" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Passionate+about+building+cool+stuff;💡+Always+learning+new+technologies;🎯+Turning+ideas+into+reality" alt="Typing SVG" />
+<!-- Animated Wave Emoji -->
+<a href="https://github.com/KDmewcon">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=2500&pause=800&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=120&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;%F0%9F%9A%80+Building+Tools+%26+Extensions+that+Matter;%F0%9F%8E%AF+Flutter+%7C+TypeScript+%7C+Chrome+Extensions;%F0%9F%92%A1+Turning+Coffee+into+Code+since+Day+1" alt="Typing SVG" />
 </a>
 
+<br>
+
+<!-- Social Badges with Glow Effect -->
+<a href="https://github.com/KDmewcon?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KDmewcon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://github.com/KDmewcon?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KDmewcon?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=KDmewcon&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> **Về Mình**
+<br>
 
-```yaml
-name: Vu Hoang
-location: Vietnam 🇻🇳
-current_focus: Building awesome applications
-education: Computer Science
-interests:
-  - 🔭 Đang làm việc với các dự án mã nguồn mở
-  - 🌱 Đang học thêm về AI/ML và Cloud Computing
-  - 💬 Hỏi mình về Flutter, C#, Web Development
-  - ⚡ Fun fact: Code vào ban đêm hiệu quả hơn ☕
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- About Me Section - Modern Card Style -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
+
+<img align="right" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif"/>
+
+```js
+const KDmewcon = {
+    pronouns: "he" | "him",
+    location: "Vietnam 🇻🇳",
+    code: ["TypeScript", "Dart", "JavaScript", "C#", "Python"],
+    tools: ["Flutter", "VS Code", "Chrome Extensions", "Git"],
+    currentlyBuilding: [
+        "🎨 AI Image Generation Tools",
+        "🧩 VS Code Extensions", 
+        "🔧 Chrome Extensions",
+        "📱 Flutter Desktop Apps"
+    ],
+    funFact: "I mass produce tools faster than I can name them 😄",
+    challenge: "Contributing to open source every day!"
+};
 ```
 
-<!-- Tech Stack -->
-## 🛠️ **Tech Stack**
+<br clear="both">
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Tech Stack with Icon Cloud -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Arsenal**
 
 <div align="center">
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚡ Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  </a>
+  <br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  </a>
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="Dart" width="65" height="65" />
+  </a>
+  <br><b>Dart</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+  </a>
+  <br><b>C#</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  </a>
+  <br><b>Python</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  </a>
+  <br><b>GitHub</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
+  </a>
+  <br><b>Flutter</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="48" height="48" />
+  </a>
+  <br><b>.NET</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  </a>
+  <br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
+  </a>
+  <br><b>Firebase</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="48" height="48" />
+  </a>
+  <br><b>VS Code</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+  </a>
+  <br><b>Docker</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+  </a>
+  <br><b>React</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+  </a>
+  <br><b>Next.js</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" />
+  </a>
+  <br><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+  </a>
+  <br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+  </a>
+  <br><b>Linux</b>
+</td>
+<td align="center" width="96">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  </a>
+  <br><b>Git</b>
+</td>
+</tr>
+</table>
 </div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Featured Projects -->
+## 🚀 **Featured Projects**
+
+<div align="center">
+<a href="https://github.com/KDmewcon/Auto-Prompt-Gen-Image-Gemini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDmewcon&repo=Auto-Prompt-Gen-Image-Gemini&theme=react&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" />
+</a>
+<a href="https://github.com/KDmewcon/extension_vscode_format-code-Java-same-style-C-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDmewcon&repo=extension_vscode_format-code-Java-same-style-C-&theme=react&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" />
+</a>
+</div>
+<br>
+<div align="center">
+<a href="https://github.com/KDmewcon/Tool_Check_ImageDuplicate_merge_split_flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDmewcon&repo=Tool_Check_ImageDuplicate_merge_split_flutter&theme=react&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" />
+</a>
+<a href="https://github.com/KDmewcon/KeoResDiscord_extension_chrome">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KDmewcon&repo=KeoResDiscord_extension_chrome&theme=react&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" />
+</a>
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats -->
-## 📊 **GitHub Stats**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KDmewcon&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&ring_color=58a6ff" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDmewcon&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KDmewcon&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&ring_color=0077b6" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDmewcon&layout=compact&hide_border=true&title_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
+<br>
+
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=KDmewcon&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KDmewcon&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=0077b6&ring=00b4d8&fire=ff6e40&currStreakLabel=00b4d8&sideLabels=00b4d8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KDmewcon&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KDmewcon&custom_title=KDmewcon%27s%20Contribution%20Graph&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=0077b6&hide_border=true&title_color=00b4d8" alt="Activity Graph" />
 </div>
 
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Snake Animation -->
-## 🐍 **Contribution Snake**
+## 🐍 **Watch the Snake eat my Contributions!**
 
 <div align="center">
   <picture>
@@ -87,48 +237,57 @@ interests:
   </picture>
 </div>
 
-<!-- Trophy -->
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Trophies -->
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KDmewcon&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Random Dev Quote -->
-## ✍️ **Random Dev Quote**
+## 💭 **Dev Quote of the Day**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
+
+<br>
 
 <!-- Connect With Me -->
-## 🌐 **Kết Nối Với Mình**
+## 🤝 **Connect With Me**
 
 <div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_YOUTUBE)
-
+<a href="https://facebook.com/" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://discord.gg/" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="mailto:" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://youtube.com/@" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+</a>
 </div>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=KDmewcon&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
-  <br><br>
-  
-  <img src="https://img.shields.io/github/followers/KDmewcon?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/KDmewcon?label=Stars&style=social" alt="GitHub Stars" />
-</div>
+<br>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,9,5,2,30&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
-  <b>⭐ Nếu bạn thích profile này, hãy cho mình một star nhé! ⭐</b>
-  <br><br>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  
+  **Thanks for visiting! 😊**
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+KDmewcon" alt="Footer Typing" />
+
 </div>
