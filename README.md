@@ -47,7 +47,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Giới Thiệu Bản Thân**
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Code minh họa"/>
+<img align="right" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Mèo gõ bàn phím"/>
 
 ```js
 const KDmewcon = {
